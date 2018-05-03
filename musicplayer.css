@@ -1,0 +1,24 @@
+.btn-last {
+	background-color: blue;
+}
+.btn-play {
+	background-color: orange;
+}
+.btn-next {
+	background-color: blue;
+}
+.btn-repeat {
+	background-color: red;
+} 
+.btn-high {
+	background-color: pink;
+}
+.btn-low {
+	background-color: #ffc;
+}
+.btn-fast {
+	background-color: orange;
+}
+.btn-slow {
+	background-color: yellow;
+}
